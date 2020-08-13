@@ -156,7 +156,7 @@ a {
 	white-space: nowrap;
 }
 #sidebar ul li a {
-	color: #999;
+	color: red;
 	font-size: 14px;
 }
 
@@ -167,10 +167,6 @@ a {
 #sidebar .active a{
 	color: #9cc7b8;
 	border-bottom: 1px solid #9cc7b8;
-}
-
-.file {
-	color: red;
 }
 
 .article-toc ul li i {
